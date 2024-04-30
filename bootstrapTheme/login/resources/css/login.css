@@ -1,6 +1,6 @@
 .login-pf body {
-    /*background: ##1e1442;*/
-    background-image: url('https://login.education.vic.gov.au/adfs/portal/illustration/illustration.png');
+    background: ##1e1442;
+    /*background-image: url('https://login.education.vic.gov.au/adfs/portal/illustration/illustration.png');*/
     background-size: cover;
 }
 
